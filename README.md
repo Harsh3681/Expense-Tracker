@@ -112,3 +112,15 @@ To reset:
 rm expenses.db
 
 📸 Screenshots
+
+### Dashboard
+
+![Dashboard](./screenshots/SS1.png)
+
+### Filters & Expense Table
+
+![Filters](./screenshots/SS2.png)
+
+### Charts (Bar + Pie)
+
+![Charts](./screenshots/SS3.png)
