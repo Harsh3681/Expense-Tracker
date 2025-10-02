@@ -27,6 +27,7 @@ ExpenseTable (shared expense table with edit/delete actions)
 PieChart (category visualization)
 
 📂 Project Structure
+
 app/
 ├── components/ # Reusable UI components
 │ ├── PageWrapper.tsx
@@ -39,7 +40,7 @@ app/
 │ ├── \_index.tsx # Dashboard (list, filters, charts)
 │ ├── add.tsx # Add expense
 │ ├── edit.$id.tsx   # Edit expense
- │    └── delete.$id.tsx # Delete expense
+│    └── delete.$id.tsx # Delete expense
 ├── types/expense.ts # Category types
 └── root.tsx # App root
 
