@@ -46,7 +46,7 @@ app/
 🚀 Setup Instructions
 
 1. Clone the repo
-   git clone https://github.com/YOUR_USERNAME/expense-tracker-remix.git
+   git clone https://github.com/Harsh3681/Expense-Tracker.git
    cd expense-tracker-remix
 
 2. Install dependencies
