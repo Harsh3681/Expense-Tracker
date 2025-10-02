@@ -107,6 +107,7 @@ via react-chartjs-2 for pie chart
 🗄️ Database
 
 The app uses SQLite. A local file (expense.db) is automatically created and migrated.
+
 To reset:
 
 rm expenses.db
