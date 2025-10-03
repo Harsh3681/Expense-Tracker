@@ -90,7 +90,7 @@ export const dbQueries = {
   async deleteExpense(id: number): Promise<boolean> {
   const db = await getDb();
   const result = await db.run("DELETE FROM expenses WHERE id = ?", [id]);
-  // ✅ Safe handling: if `changes` is undefined, treat it as 0
+  
   return (result.changes ?? 0) > 0;
 }
 
